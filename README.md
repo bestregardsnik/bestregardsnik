@@ -2,7 +2,7 @@
 
 I am a passionate Juniour Full Stack Web Developer student at CICCC, Vancouver, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<bestregardsnik>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bestregardsnik)](https://git.io/streak-stats)
 
 ## 🚀 About Me
 
