@@ -7,7 +7,7 @@ I am a passionate Juniour Full Stack Web Developer student at CICCC, Vancouver, 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my diploma in Web Development at CICCC, Vancouver.
-- 📝 I write and play music, as well as recording and editing sounds.
+- 🎵 I write and play music, as well as recording and editing sounds.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -17,13 +17,12 @@ I am a passionate Juniour Full Stack Web Developer student at CICCC, Vancouver, 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Learning about navigating through the world of React Router for seamless page transitions.
-  - Learning about styling with Tailwind CSS to create modern and responsive user interfaces.
   - Exploring building server-side applications with Django, a powerful Python web framework.
   - Thinking of diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
-- 🌟 My team's final project in my UI/UX class won between 4 different teams
+- 🌟 My team's final project in my UI/UX class won among 4 different teams
 
 
 ## 📬 Get in Touch
